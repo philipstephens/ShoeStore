@@ -24,4 +24,10 @@
     <string name="fr_login_email_title">l\' adresse électronique</string>
     <string name="fr_password_title">Mot de passe</string>
     <string name="fr_repeat_title">Répéter le mot de passe</string>
+    <string name="en_welcome_text1">Welcome to the shoe store inventory application!  We hope you will find everything you need and enjoy all the features of this app!</string>
+    <string name="en_welcome_text2">With this app you will be able to:\n\n* View instructions\n* Obtain a list of shoes\n* View detailed information about a shoe</string>
+    <string name="fr_welcome_text1">Bienvenue dans l\'application d\'inventaire de magasin de chaussures !  Nous espérons que vous trouverez tout ce dont vous avez besoin et que vous apprécierez toutes les fonctionnalités de cette application !</string>
+    <string name="fr_welcome_text2">Avec cette application, vous pourrez :\n\n* Voir les instructions\n* Obtenir une liste de chaussures\n* Afficher des informations détaillées sur une chaussure</string>
+    <string name="en_instructions_button_text">Instructions</string>
+    <string name="fr_instructions_button_text">Instructions</string>
 </resources>
