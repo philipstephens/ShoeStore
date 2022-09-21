@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="en_login_email_title">Email Address</string>
+    <string name="en_password_title">Password</string>
+    <string name="en_repeat_title">Repeat Password</string>
+    <string name="en_create_button_title">Create</string>
+    <string name="en_login_button_title">Login</string>
+    <string name="fr_login_email_title">l\' adresse électronique</string>
+    <string name="fr_password_title">Mot de passe</string>
+    <string name="fr_repeat_title">Répéter le mot de passe</string>
+    <string name="fr_create_button_title">Créer</string>
+    <string name="fr_login_button_title">l\' ouverture de session</string>
+</resources>
