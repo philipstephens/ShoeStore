@@ -5,4 +5,5 @@
     <color name="colorAccent">#D81B60</color>
     <color name="colorTitle">#FFFF00</color>
     <color name="colorEditBox">#DDDDDD</color>
+    <color name="colorHints">#f4f7aa</color>
 </resources>
